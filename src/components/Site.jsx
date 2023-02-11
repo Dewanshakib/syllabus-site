@@ -7,7 +7,7 @@ export const Site = () => {
 
   return (
     <div>
-      <section className="px-10  bg-[url('./Bg_img.jpg')] bg-cover md:px-20 lg:px-40">
+      <section className="px-10  bg-[url('/Bg_img.jpg')] bg-cover md:px-20 lg:px-40">
         <div className="min-h-screen w-full">
           <div className="flex justify-between items-center pt-5">
             <a href="/">
